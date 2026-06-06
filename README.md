@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently mastering **Python, R, SQL, and Machine Learning**
+- 🌱 Currently pursuing my BSc honours in statistics at the University of venda
 - 📊 Experienced in data import, cleaning, modeling, and visualization
 - 🔍 Interested in predictive analytics, NLP, and business intelligence
 - 💻 Strong programming foundation in Java, now applying those skills to data science
