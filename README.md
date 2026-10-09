@@ -10,8 +10,9 @@
 
 - 🎓 **Cum Laude Graduate** in Computer Science & Mathematical Statistics from the University of Fort Hare (76% average)
 - 📚 Currently pursuing **BSc Honours in Statistics** at the University of Venda
+- 🔬 Honours research: **high-risk fertility behaviour among South African women**, using multilevel logistic models and group LASSO on national survey data ([project](https://github.com/Rolivhuwa-Thomoli/hrfb-south-africa))
 - 🌱 Currently mastering **Python, R, SQL, and Machine Learning**
-- 📊 Experienced in data import, cleaning, modeling, and visualization
+- 📊 Experienced in data import, cleaning, statistical modelling, and visualisation in R, Python and **Power BI**
 - 🔍 Interested in predictive analytics, NLP, business intelligence, and consulting
 - 💻 Strong programming foundation in Java, C++, now applying those skills to data science
 - 📫 How to reach me: [rolivhuwathomoli@gmail.com](mailto:rolivhuwathomoli@gmail.com)
@@ -45,6 +46,8 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![R-Studio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ---
 
@@ -52,6 +55,9 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| 🤰 [High-Risk Fertility Behaviour in South Africa](https://github.com/Rolivhuwa-Thomoli/hrfb-south-africa) | Honours research on 8,514 women (SADHS 2016): outlier screening, group LASSO selection, two-level logistic models, full model evaluation, plus an interactive Power BI dashboard | R, lme4, glmmLasso, Power BI, DAX |
+| ⚡ [US Electricity: SQL + Forecasting Pipeline](https://github.com/Rolivhuwa-Thomoli/us-electricity-analytics) | ETL of EIA data into SQLite with data-quality checks, analytical SQL (CTEs, window functions), and forecast benchmarking with rolling-origin cross-validation | Python, SQL, SQLite, statsmodels |
+| 📈 [US Electricity ARIMA Forecast](https://github.com/Rolivhuwa-Thomoli/us-electricity-arima-forecast) | Seasonal ARIMA trained on 1973–2013, checked against 2024–2026 actuals: 2.1% MAPE more than a decade ahead | R, forecast |
 | 🏠 [House Price Prediction](https://github.com/Rolivhuwa-Thomoli/house-price-prediction) | End-to-end ML regression model predicting house prices with full EDA and feature engineering | Python, Scikit-Learn, Pandas, Seaborn |
 | 🛒 [Customer Segmentation](https://github.com/Rolivhuwa-Thomoli/customer-segmentation) | Unsupervised clustering analysis using K-Means and hierarchical clustering for marketing insights | Python, Scikit-Learn, Matplotlib |
 | 🦠 [COVID-19 Data Analysis](https://github.com/Rolivhuwa-Thomoli/covid19-data-analysis) | Comprehensive EDA and visualization of global COVID-19 trends and patterns | Python, Pandas, Seaborn |
@@ -71,6 +77,7 @@
 
 - **BSc Honours in Statistics** -- University of Venda (2026)
   - Coursework: Probability Theory, Multivariate Analysis, GLMs, Time Series, Research Project
+  - Research project: *High-risk fertility behaviour among South African women* (multilevel models, penalised variable selection)
 - **BSc Computer Science & Mathematical Statistics** -- University of Fort Hare (2023-2025)
   - Graduated **Cum Laude** with 76% average
   - 9 Distinctions across 16 modules
