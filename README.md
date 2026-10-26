@@ -55,6 +55,9 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| 📊 [Executive KPI Dashboard: Marketing vs Trade](https://github.com/Rolivhuwa-Thomoli/executive-kpi-dashboard) | Three-page Power BI dashboard that shows whether marketing money goes to the provinces that bring in sales. Star schema with a shared dimension, data cleaning in SQL, row-level security | Power BI, DAX, SQL Server |
+| 🧩 [Microservices Order System](https://github.com/Rolivhuwa-Thomoli/microservices-order-system) | Order system split into 4 services behind an API gateway, with Eureka and circuit breakers so one broken service does not take the rest down. Tested by switching services off | Java, Spring Boot, Spring Cloud, Docker, PostgreSQL |
+| 🎯 [High-Value Customer Targeting](https://github.com/Rolivhuwa-Thomoli/high-value-customer-targeting) | Logistic regression that scores customers from their first 180 days; scores written back to the database for a Power BI call list. 3.5x better than random on an honest hold-out | Python, scikit-learn, SQL, Power BI |
 | 🤰 [High-Risk Fertility Behaviour in South Africa](https://github.com/Rolivhuwa-Thomoli/hrfb-south-africa) | Honours research on 8,514 women (SADHS 2016): outlier screening, group LASSO selection, two-level logistic models, full model evaluation, plus an interactive Power BI dashboard | R, lme4, glmmLasso, Power BI, DAX |
 | ⚡ [US Electricity: SQL + Forecasting Pipeline](https://github.com/Rolivhuwa-Thomoli/us-electricity-analytics) | ETL of EIA data into SQLite with data-quality checks, analytical SQL (CTEs, window functions), and forecast benchmarking with rolling-origin cross-validation | Python, SQL, SQLite, statsmodels |
 | 📈 [US Electricity ARIMA Forecast](https://github.com/Rolivhuwa-Thomoli/us-electricity-arima-forecast) | Seasonal ARIMA trained on 1973–2013, checked against 2024–2026 actuals: 2.1% MAPE more than a decade ahead | R, forecast |
@@ -86,7 +89,7 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rolivhuwa-thomoli-a26a8b162)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rolivhuwa-thomoli-58808a446)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rolivhuwathomoli@gmail.com)
 
 ---
